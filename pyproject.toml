@@ -1,7 +1,7 @@
 [project]
 name = "general-analysis"
 version = "0.1.0"
-description = "Add your description here"
+description = "uvの仮想環境とともにJupyterlabでデータサイエンス専用環境を構築する"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
